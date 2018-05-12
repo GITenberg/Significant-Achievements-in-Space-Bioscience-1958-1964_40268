@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '4828'
     url: http://www.gutenberg.org/2009/agents/4828
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40268#Significant-Achievements-in-Space-Bioscience-1958-1964
 gutenberg_issued: '2012-07-17'
 gutenberg_type: Text
 identifiers:
